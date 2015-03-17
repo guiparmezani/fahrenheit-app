@@ -10,31 +10,31 @@
 	<string>Test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D97D47A9E07C18EBBFC22BF9BDC8A03845F4E60F</key>
-		<string>https://github.com/jianpx/ios-cabin.git</string>
+		<key>8B07F0A0A4FDF2D78BF7FA8F7133E62B090A5D41</key>
+		<string>https://github.com/guiparmezani/fahrenheit-app.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>PagedImageScrollView/Test/Test.xcodeproj</string>
+	<string>Test/Test.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D97D47A9E07C18EBBFC22BF9BDC8A03845F4E60F</key>
-		<string>../../../..</string>
+		<key>8B07F0A0A4FDF2D78BF7FA8F7133E62B090A5D41</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jianpx/ios-cabin.git</string>
+	<string>https://github.com/guiparmezani/fahrenheit-app.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D97D47A9E07C18EBBFC22BF9BDC8A03845F4E60F</string>
+	<string>8B07F0A0A4FDF2D78BF7FA8F7133E62B090A5D41</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D97D47A9E07C18EBBFC22BF9BDC8A03845F4E60F</string>
+			<string>8B07F0A0A4FDF2D78BF7FA8F7133E62B090A5D41</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios-cabin</string>
+			<string>PagedImageScrollView</string>
 		</dict>
 	</array>
 </dict>

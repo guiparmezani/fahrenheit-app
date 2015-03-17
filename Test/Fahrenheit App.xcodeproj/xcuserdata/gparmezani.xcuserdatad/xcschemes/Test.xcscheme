@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "50E3DAD5178D000700769DA5"
-               BuildableName = "Test.app"
-               BlueprintName = "Test"
-               ReferencedContainer = "container:Test.xcodeproj">
+               BuildableName = "Fahrenheit App.app"
+               BlueprintName = "Fahrenheit App"
+               ReferencedContainer = "container:Fahrenheit App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50E3DAD5178D000700769DA5"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
-            ReferencedContainer = "container:Test.xcodeproj">
+            BuildableName = "Fahrenheit App.app"
+            BlueprintName = "Fahrenheit App"
+            ReferencedContainer = "container:Fahrenheit App.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50E3DAD5178D000700769DA5"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
-            ReferencedContainer = "container:Test.xcodeproj">
+            BuildableName = "Fahrenheit App.app"
+            BlueprintName = "Fahrenheit App"
+            ReferencedContainer = "container:Fahrenheit App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "50E3DAD5178D000700769DA5"
-            BuildableName = "Test.app"
-            BlueprintName = "Test"
-            ReferencedContainer = "container:Test.xcodeproj">
+            BuildableName = "Fahrenheit App.app"
+            BlueprintName = "Fahrenheit App"
+            ReferencedContainer = "container:Fahrenheit App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

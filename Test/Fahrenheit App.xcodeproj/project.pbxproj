@@ -25,17 +25,18 @@
 		ED5D7D4F1AB251BE008BCC1B /* page-online-marketing.png in Resources */ = {isa = PBXBuildFile; fileRef = ED5D7D4C1AB251BE008BCC1B /* page-online-marketing.png */; };
 		ED5D7D501AB251BE008BCC1B /* page-responsiveness.png in Resources */ = {isa = PBXBuildFile; fileRef = ED5D7D4D1AB251BE008BCC1B /* page-responsiveness.png */; };
 		ED5D7D511AB251BE008BCC1B /* page-seo.png in Resources */ = {isa = PBXBuildFile; fileRef = ED5D7D4E1AB251BE008BCC1B /* page-seo.png */; };
+		EDFEC97F1AB34931009575FD /* page-end.png in Resources */ = {isa = PBXBuildFile; fileRef = EDFEC97E1AB34931009575FD /* page-end.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		50E3DAD6178D000700769DA5 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		50E3DAD6178D000700769DA5 /* Fahrenheit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fahrenheit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E3DAD9178D000700769DA5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		50E3DADB178D000700769DA5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		50E3DADD178D000700769DA5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		50E3DAE1178D000700769DA5 /* Test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Test-Info.plist"; sourceTree = "<group>"; };
+		50E3DAE1178D000700769DA5 /* Fahrenheit App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Fahrenheit App-Info.plist"; sourceTree = "<group>"; };
 		50E3DAE3178D000700769DA5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		50E3DAE5178D000700769DA5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		50E3DAE7178D000700769DA5 /* Test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Test-Prefix.pch"; sourceTree = "<group>"; };
+		50E3DAE7178D000700769DA5 /* Fahrenheit App-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fahrenheit App-Prefix.pch"; sourceTree = "<group>"; };
 		50E3DAE8178D000700769DA5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		50E3DAE9178D000700769DA5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		50E3DAEB178D000700769DA5 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
@@ -52,6 +53,7 @@
 		ED5D7D4C1AB251BE008BCC1B /* page-online-marketing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page-online-marketing.png"; sourceTree = "<group>"; };
 		ED5D7D4D1AB251BE008BCC1B /* page-responsiveness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page-responsiveness.png"; sourceTree = "<group>"; };
 		ED5D7D4E1AB251BE008BCC1B /* page-seo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page-seo.png"; sourceTree = "<group>"; };
+		EDFEC97E1AB34931009575FD /* page-end.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "page-end.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +73,7 @@
 		50E3DACD178D000700769DA5 = {
 			isa = PBXGroup;
 			children = (
-				50E3DADF178D000700769DA5 /* Test */,
+				50E3DADF178D000700769DA5 /* Fahrenheit App */,
 				50E3DAD8178D000700769DA5 /* Frameworks */,
 				50E3DAD7178D000700769DA5 /* Products */,
 			);
@@ -80,7 +82,7 @@
 		50E3DAD7178D000700769DA5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				50E3DAD6178D000700769DA5 /* Test.app */,
+				50E3DAD6178D000700769DA5 /* Fahrenheit App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +97,10 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		50E3DADF178D000700769DA5 /* Test */ = {
+		50E3DADF178D000700769DA5 /* Fahrenheit App */ = {
 			isa = PBXGroup;
 			children = (
+				EDFEC97E1AB34931009575FD /* page-end.png */,
 				ED5D7D4C1AB251BE008BCC1B /* page-online-marketing.png */,
 				ED5D7D4D1AB251BE008BCC1B /* page-responsiveness.png */,
 				ED5D7D4E1AB251BE008BCC1B /* page-seo.png */,
@@ -113,16 +116,17 @@
 				50F895FC178E36DC006AEE6B /* PagedImageScrollView.m */,
 				50E3DAE0178D000700769DA5 /* Supporting Files */,
 			);
+			name = "Fahrenheit App";
 			path = Test;
 			sourceTree = "<group>";
 		};
 		50E3DAE0178D000700769DA5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				50E3DAE1178D000700769DA5 /* Test-Info.plist */,
+				50E3DAE1178D000700769DA5 /* Fahrenheit App-Info.plist */,
 				50E3DAE2178D000700769DA5 /* InfoPlist.strings */,
 				50E3DAE5178D000700769DA5 /* main.m */,
-				50E3DAE7178D000700769DA5 /* Test-Prefix.pch */,
+				50E3DAE7178D000700769DA5 /* Fahrenheit App-Prefix.pch */,
 				50E3DAEB178D000700769DA5 /* Default.png */,
 				50E3DAED178D000700769DA5 /* Default@2x.png */,
 				50E3DAEF178D000700769DA5 /* Default-568h@2x.png */,
@@ -133,9 +137,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		50E3DAD5178D000700769DA5 /* Test */ = {
+		50E3DAD5178D000700769DA5 /* Fahrenheit App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 50E3DAF9178D000700769DA5 /* Build configuration list for PBXNativeTarget "Test" */;
+			buildConfigurationList = 50E3DAF9178D000700769DA5 /* Build configuration list for PBXNativeTarget "Fahrenheit App" */;
 			buildPhases = (
 				50E3DAD2178D000700769DA5 /* Sources */,
 				50E3DAD3178D000700769DA5 /* Frameworks */,
@@ -145,9 +149,9 @@
 			);
 			dependencies = (
 			);
-			name = Test;
+			name = "Fahrenheit App";
 			productName = Test;
-			productReference = 50E3DAD6178D000700769DA5 /* Test.app */;
+			productReference = 50E3DAD6178D000700769DA5 /* Fahrenheit App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -159,7 +163,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = PS;
 			};
-			buildConfigurationList = 50E3DAD1178D000700769DA5 /* Build configuration list for PBXProject "Test" */;
+			buildConfigurationList = 50E3DAD1178D000700769DA5 /* Build configuration list for PBXProject "Fahrenheit App" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -171,7 +175,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				50E3DAD5178D000700769DA5 /* Test */,
+				50E3DAD5178D000700769DA5 /* Fahrenheit App */,
 			);
 		};
 /* End PBXProject section */
@@ -185,6 +189,7 @@
 				ED5D7D4B1AB22BBD008BCC1B /* main.png in Resources */,
 				50E3DAE4178D000700769DA5 /* InfoPlist.strings in Resources */,
 				50E3DAEC178D000700769DA5 /* Default.png in Resources */,
+				EDFEC97F1AB34931009575FD /* page-end.png in Resources */,
 				ED5D7D511AB251BE008BCC1B /* page-seo.png in Resources */,
 				50E3DAEE178D000700769DA5 /* Default@2x.png in Resources */,
 				50E3DAF0178D000700769DA5 /* Default-568h@2x.png in Resources */,
@@ -291,9 +296,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Test/Test-Prefix.pch";
-				INFOPLIST_FILE = "Test/Test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Test/Fahrenheit App-Prefix.pch";
+				INFOPLIST_FILE = "Test/Fahrenheit App-Info.plist";
+				PRODUCT_NAME = "Fahrenheit App";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -302,9 +307,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Test/Test-Prefix.pch";
-				INFOPLIST_FILE = "Test/Test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Test/Fahrenheit App-Prefix.pch";
+				INFOPLIST_FILE = "Test/Fahrenheit App-Info.plist";
+				PRODUCT_NAME = "Fahrenheit App";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -312,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		50E3DAD1178D000700769DA5 /* Build configuration list for PBXProject "Test" */ = {
+		50E3DAD1178D000700769DA5 /* Build configuration list for PBXProject "Fahrenheit App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50E3DAF7178D000700769DA5 /* Debug */,
@@ -321,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		50E3DAF9178D000700769DA5 /* Build configuration list for PBXNativeTarget "Test" */ = {
+		50E3DAF9178D000700769DA5 /* Build configuration list for PBXNativeTarget "Fahrenheit App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				50E3DAFA178D000700769DA5 /* Debug */,
